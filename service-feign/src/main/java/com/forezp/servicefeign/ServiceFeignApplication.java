@@ -16,5 +16,7 @@ public class ServiceFeignApplication {
         SpringApplication.run(ServiceFeignApplication.class, args);
     }
 
+    
+
 }
 
